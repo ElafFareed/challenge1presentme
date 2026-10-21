@@ -28,7 +28,7 @@ struct PresentMeView: View {
             .frame(maxWidth: .infinity , alignment: .center)
             .listRowBackground(Color.clear)
             Section{
-                Text("I am a 22 yo with so many passions.I love listening to music and yap about my interest in books , shows, and movies")
+                Text("I am a 22 yo with so many passions.I love listening to music and yap about my interest in books , shows, and movies and I love Raseel")
                 }header:{
                     Text("About")
                 }
