@@ -26,7 +26,7 @@ struct PresentMeView: View {
             
             
             Section{
-                Text("hello")
+                Text("hello,i love to walk and sleep early")
             }
             
             header:{
