@@ -6,7 +6,7 @@ struct ContentView: View {
     var body: some View {
         HStack{
             Image(systemName: "app")
-            Text("Hello, Aha!")
+            Text("Hello, Aeon Aha")
                 .font(.largeTitle)
                 .foregroundStyle(.blue)
                 .padding()
