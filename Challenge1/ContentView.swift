@@ -7,6 +7,7 @@ struct ContentView: View {
         HStack{
             Image(systemName: "app")
             Text("Hello, I love Elaf")
+
                 .font(.largeTitle)
                 .foregroundStyle(.blue)
                 .padding()
