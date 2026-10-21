@@ -1,9 +1,14 @@
 import SwiftUI
 
-@main struct MyApp: App {
+@main
+struct MyApp: App {
+    init() {
+        configureNavigationTitles()   // العنوان الكبير بوزن Regular
+    }
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()                // التاب بار + صفحة Progress
         }
     }
 }
